@@ -1,0 +1,10 @@
+.common{
+    font-family: 'Helvetica','Times New Roman',"sans-serif";
+}
+.common.alpha{
+    color: white;
+    background-color: black;
+}
+.common.beta{
+    background-color: yellow;
+}
